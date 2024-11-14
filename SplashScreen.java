@@ -5,7 +5,7 @@ public class SplashScreen {
     JFrame frame;
     JLabel image = new JLabel(new ImageIcon("images.jpeg"));
     JLabel text = new JLabel("PASSWORD MANAGER");
-    JLabel text2 = new JLabel("Developers: ISHITA ANGIRA SAKSHAM PIYUSH");
+    JLabel text2 = new JLabel("Developer: PIYUSH");
     JProgressBar progressBar = new JProgressBar();
     JLabel message = new JLabel();
 
